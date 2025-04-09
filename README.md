@@ -13,9 +13,9 @@ This capstone project demonstrates the use of **SQL** to explore, clean, and ana
 
 ---
 
-![Click to view SQL Code](
+![Click to view SQL Code](https://github.com/Softechanalytics/airbnbsql/blob/main/AirBnB.sql)
 
-![click to view Dataset](
+![click to view Dataset](https://github.com/Softechanalytics/airbnbsql/tree/main/dataset)
 
 ## 🧾 Datasets Used
 
